@@ -24,7 +24,7 @@ body{
 }
 
 .main{
-	width: 1200px;
+	width: 1400px;
 	height:460px;
 	margin: 30px auto;
 	overflow: hidden;
@@ -32,14 +32,14 @@ body{
 }
 
 .banner{
-	width: 1200px;
+	width: 1400px;
 	height: 460px;
 	overflow: hidden;
 	position: absolute;
 }
 
 .banner-slide{
-	width: 1200px;
+	width: 1400px;
 	height: 460px;
 	position: absolute;
 	background-repeat: no-repeat;

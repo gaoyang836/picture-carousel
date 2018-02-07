@@ -34,6 +34,7 @@ body{
 .banner{
 	width: 1200px;
 	height: 460px;
+	overflow: hidden;
 	position:relative;
 }
 
@@ -47,19 +48,18 @@ body{
 
 .slide-active{
 	display: block;
-
 }
 
 .slide1{
-	background-image: url("../img/bg1.jpg");
+	background-image: url("img/bg1.jpg");
 }
 
 .slide2{
-	background-image: url("../img/bg2.jpg");
+	background-image: url("img/bg2.jpg");
 }
 
 .slide3{
-	background-image: url("../img/bg3.jpg");
+	background-image: url("img/bg3.jpg");
 }
 
 .button{
@@ -69,7 +69,7 @@ body{
 	left:244px;
 	top: 50%;
 	margin-top: -40px;
-	background: url(../img/arrow.png) no-repeat center center;
+	background: url(img/arrow.png) no-repeat center center;
 }
 
 .button:hover{
